@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arman Kar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-- 🌱 I’m currently learning **Databases**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h1 align="center">Hi 👋, I'm Arman</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
