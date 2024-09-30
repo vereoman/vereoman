@@ -1,21 +1,20 @@
 <h2 align="left">💫 About Me</h2>
-<p align="left">Hi, I'm Arman, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specializes in web development while also working on the Ruby on Rails(RoR). I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seeks opportunities for learning and personal growth.</p>
+<p align="center">Hi, I'm Arman, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specializes in web development while also working on the Ruby on Rails(RoR). I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seeks opportunities for learning and personal growth.</p>
 
 <h2 align="left">🌐 Socials</h2>
-<p align="left"> 
+<p align="center"> 
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </p>
 
 <h2 align="left">🖥️ Technological Skills</h2>
-<p>
+<p align="center>
   <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<!--   <img alt="vue.js" src="" /> -->
-<!--   <img alt="vuetify" src="" /> -->
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="tailwindcs" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -38,7 +37,8 @@
 <!--   <img alt="firebase" src="" /> -->
 <!--   <img alt="git" src="" />
   <img alt="figma" src="" /> -->
-<!--   <img alt="postman" src="" /> -->
+  <img alt="insomia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
 <!--   <img alt="netify" src="" /> -->
 </p>
