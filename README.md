@@ -1,10 +1,9 @@
-<h2 align="left">💫 About Me</h2>
+<h2 align="left">💫 ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <p align="center">Hi, I'm Arman, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specializes in web development while also working on the Ruby on Rails(RoR). I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seeks opportunities for learning and personal growth.</p>
 
 <h2 align="left">🌐 Socials</h2>
 <p align="center"> 
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </p>
 
 <h2 align="left">🖥️ Technological Skills</h2>
