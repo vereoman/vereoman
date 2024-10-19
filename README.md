@@ -25,9 +25,8 @@
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white" />
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<!--   <img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white" /> -->
+<!--   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> -->
+<!--   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> -->
   <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="pytest" src="https://img.shields.io/badge/Pytest-<color>.svg?&style=flat-square&logo=pytest&logoColor=white">
 </p>
