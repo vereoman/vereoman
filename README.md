@@ -5,23 +5,14 @@
 
 <h2 align="left">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
 <p align="left">
-  <img alt="react" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" />
-  <img alt="redux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
-  <img alt="tailwind css" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" />
-  <img alt="bootstrap" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
-  <img alt="node.js" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />
-  <img alt="express.js" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
-  <img alt="postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
-  <img alt="python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" />
-  <img alt="flask" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" />
-  <img alt="mongodb" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
-  <img alt="next.js" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" />
-  <img alt="vercel" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" />
-  <img alt="git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
-  <img alt="github" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" />
-  <img alt="graphql" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Light.svg">
-  <img alt="sublime_text" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Light.svg" />
-  <!--   <img alt="" src="" /> -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 <h2 align="left">ꜱᴏᴄɪᴀʟꜱ</h2>
