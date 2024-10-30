@@ -5,28 +5,28 @@
 
 <h2 align="left">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="node.js" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express.js" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Light.svg" alt="redis" width="40" height="40"/> -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="flask" width="40" height="40"/>
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> -->
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="springboot" width="40" height="40"/> -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="next.js" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" alt="vercel" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="github" width="40" height="40"/>
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Light.svg" alt="graphql" width="40" height="40"/> -->
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> -->
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/> -->
-<!--   <img src="" alt="" width="40" height="40"/> -->
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<!--   <img alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="express.js" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<!--   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+<!--   <img alt="" src="" /> -->
+<!--   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> -->
+<!--   <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> -->
+<!--   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
+<!--   <img alt="sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /> -->
 </p>
 
 <h2 align="left">ꜱᴏᴄɪᴀʟꜱ</h2>
