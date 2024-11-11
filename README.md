@@ -28,7 +28,6 @@
 <!--   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> -->
 <!--   <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> -->
 <!--   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
-  <img alt="figma" src="https://img.shields.io/badge/Made%20with-Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <h2 align="left">ꜱᴏᴄɪᴀʟꜱ</h2>
