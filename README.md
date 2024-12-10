@@ -1,4 +1,8 @@
-<p>
+<p align="center">
+  I'm a passionate full-stack developer and an enthusiastic student, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies. Let's collaborate, share knowledge, and make the digital world a more exciting and accessible place for everyone!
+</p>
+
+<p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express" width="50" height="50"/>
