@@ -1,6 +1,10 @@
+<h1 align="center">About Me</h1>
+
 <p align="center">
   I'm a passionate full-stack developer and an enthusiastic student, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies. Let's collaborate, share knowledge, and make the digital world a more exciting and accessible place for everyone!
 </p>
+
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
