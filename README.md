@@ -4,6 +4,8 @@
   I'm a passionate full-stack developer and an enthusiastic student, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies. Let's collaborate, share knowledge, and make the digital world a more exciting and accessible place for everyone!
 </p>
 
+<br>
+
 <h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
 
 <p align="center">
