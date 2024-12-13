@@ -20,4 +20,5 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" alt="Vercel" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" alt="Vim" width="50" height="50"/>
 </p>
