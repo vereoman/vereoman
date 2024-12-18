@@ -7,13 +7,17 @@
 <h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="Lua" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50"/>
+</p>
