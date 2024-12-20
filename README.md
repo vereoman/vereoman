@@ -1,7 +1,7 @@
 <div align="center">
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
-I'm a passionate full-stack developer and an enthusiastic student, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies.
+I'm a passionate full-stack developer and an enthusiastic student at Kalvium, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies, while continuously learning and collaborating with diverse development teams.
 
 ## ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ
 <p>
@@ -14,8 +14,8 @@ I'm a passionate full-stack developer and an enthusiastic student, dedicated to 
   <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white"/>
-<!--   <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-black.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> -->
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-black.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
 ## ꜱᴏᴄɪᴀʟꜱ
