@@ -15,9 +15,8 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
 <!--   <img alt="Remix" src="https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white"/> -->
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-151b26?style=for-the-badge&logo=tailwind-css&logoColor=85d7ff"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-151b26?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151b26?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
 <!--   <img alt="Lua" src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white"/> -->
-  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-151b26.svg?&style=for-the-badge&logo=neovim&logoColor=57A143"/>
+<!--   <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-151b26.svg?&style=for-the-badge&logo=neovim&logoColor=57A143"/> -->
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-151b26?style=for-the-badge&logo=vercel&logoColor=white"/>
 <!--   <img alt="" src=""/> -->
 </p>
