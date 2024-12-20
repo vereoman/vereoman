@@ -20,10 +20,10 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
 
 ## ꜱᴏᴄɪᴀʟꜱ
 <p>
-  <a href="https://www.linkedin.com/in/reacharman/">
+  <a href="https://www.linkedin.com/in/reacharman/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/reacharman">
+  <a href="https://x.com/reacharman" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
