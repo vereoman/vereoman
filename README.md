@@ -14,7 +14,7 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <!--   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
   <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Lua" src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-black.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
