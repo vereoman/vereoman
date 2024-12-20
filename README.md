@@ -13,7 +13,6 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-black.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
 </div>
