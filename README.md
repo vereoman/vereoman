@@ -14,7 +14,7 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
   <img alt="NextJS" src="https://github.com/reacharman/skill-icons/blob/main/icons/NextJS-Light.svg" width="40" height="40"/>
   <img alt="TailwindCSS" src="https://github.com/reacharman/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="40" height="40"/>
   <img alt="Python" src="https://github.com/reacharman/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/>
-  <img alt="Java" src="https://github.com/reacharman/skill-icons/blob/main/icons/Java-Light.svg"/>
+  <img alt="Java" src="https://github.com/reacharman/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40"/>
   <img alt="Git" src="https://github.com/reacharman/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
   <img alt="GitHub" src="https://github.com/reacharman/skill-icons/blob/main/icons/Github-Light.svg" width="40" height="40"/>
 </p>
