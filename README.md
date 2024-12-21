@@ -3,8 +3,6 @@
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 I'm a passionate full-stack developer and an enthusiastic student at Kalvium, dedicated to transforming innovative ideas into reality. I thrive on crafting seamless user experiences and exploring emerging technologies, while continuously learning and collaborating with diverse development teams.
 
-<br>
-
 ## ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ
 <p>
   <img alt="React" src="https://github.com/reacharman/skill-icons/blob/main/icons/React-Light.svg" width="45" height="45"/>
