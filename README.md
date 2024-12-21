@@ -17,6 +17,7 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
   <img alt="Java" src="https://github.com/reacharman/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
   <img alt="Git" src="https://github.com/reacharman/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
   <img alt="GitHub" src="https://github.com/reacharman/skill-icons/blob/main/icons/Github-Light.svg" width="50" height="50"/>
+  <img alt="Vercel" src="https://github.com/reacharman/skill-icons/blob/main/icons/Vercel-Light.svg" width="50" height="50"/>
 </p>
 
 </div>
