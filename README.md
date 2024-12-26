@@ -13,8 +13,12 @@ I'm a passionate full-stack developer and an enthusiastic student at Kalvium, de
 <!--   <img alt="TailwindCSS" src="https://github.com/reacharman/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="45" height="45"/> -->
   <img alt="Python" src="https://github.com/reacharman/skill-icons/blob/main/icons/Python-Light.svg" width="45" height="45"/>
   <img alt="Java" src="https://github.com/reacharman/skill-icons/blob/main/icons/Java-Light.svg" width="45" height="45"/>
-<!--   <img alt="Lua" src="https://github.com/reacharman/skill-icons/blob/main/icons/Lua-Light.svg" width="45" height="45"/> -->
-<!--   <img alt="GoLang" src="https://github.com/reacharman/skill-icons/blob/main/icons/GoLang.svg" width="45" height="45"/> -->
+  <img alt="Lua" src="https://github.com/reacharman/skill-icons/blob/main/icons/Lua-Light.svg" width="45" height="45"/>
+<!--   <img alt="Rust" src="" width="45" height="45"/>
+  <img alt="Rust" src="" width="45" height="45"/>
+  <img alt="Rust" src="" width="45" height="45"/>
+  <img alt="Rust" src="" width="45" height="45"/>
+  <img alt="Rust" src="" width="45" height="45"/> -->
   <img alt="Git" src="https://github.com/reacharman/skill-icons/blob/main/icons/Git.svg" width="45" height="45"/>
   <img alt="GitHub" src="https://github.com/reacharman/skill-icons/blob/main/icons/Github-Light.svg" width="45" height="45"/>
   <img alt="Vercel" src="https://github.com/reacharman/skill-icons/blob/main/icons/Vercel-Light.svg" width="45" height="45"/>
