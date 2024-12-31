@@ -1,6 +1,6 @@
 <div align="center">
   <h3>💫 ᴀʙᴏᴜᴛ ᴍᴇ</h3>
-  <p>Hello! I'm Arman, a full stack developer. I enjoy creating unique and creative ideas, and I love contributing to projects that resonate with me.</p>
+  <p>I'm Arman, a full stack developer. I enjoy creating unique and creative ideas, and I love contributing to projects that resonate with me.</p>
 
   <h3>🌐 ꜱᴏᴄɪᴀʟꜱ</h3>
   <p>
