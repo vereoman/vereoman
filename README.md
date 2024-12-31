@@ -1,4 +1,4 @@
-<div align="center">
+
   <h3>💫 ᴀʙᴏᴜᴛ ᴍᴇ</h3>
   <p>I'm Arman, a full stack developer. I enjoy creating unique and creative ideas, and I love contributing to projects that resonate with me.</p>
 
@@ -14,4 +14,3 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </p>
-</div>
