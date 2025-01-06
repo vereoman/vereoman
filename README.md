@@ -1,3 +1,3 @@
 <div align="center">
-    I'm Arman Kar, a dedicated full-stack developer with a passion for creating unique and innovative ideas. I thrive on contributing to projects that resonate with me and align with my professional values. I enjoy collaborating with diverse teams, embracing challenges, and continuously learning to enhance my skills in cutting-edge technologies and frameworks.
+    I'm Arman Kar, a committed full-stack developer with a zeal for crafting distinctive and groundbreaking ideas. I flourish when I'm part of projects that strike a chord with my personal and professional ethos. I find joy in teaming up with varied groups, tackling challenges head-on, and constantly evolving my expertise with the latest tech and frameworks.
 </div>
