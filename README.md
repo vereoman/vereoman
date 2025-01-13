@@ -1,5 +1,22 @@
-<div align="center">
-    <em>
-        I'm Arman, a committed full-stack developer with a zeal for crafting distinctive and groundbreaking ideas. I flourish when I'm part of projects that strike a chord with my personal and professional ethos. I find joy in teaming up with varied groups, tackling challenges head-on, and constantly evolving my expertise with the latest tech and frameworks.
-    </em>
-</div>
+<!-- Inspiration: https://github.com/owl4ce -->
+
+
+<p align="center">
+   <samp><br>
+   Hey there, I'm Louise!
+   <br>
+   I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
+   In the mean time, I'm working on developing Python projects and<br> looking to contribute to other open source
+   projects.
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://www.reddit.com/user/LaLocaLu">reddit</a>
+   ·
+   <a href="https://twitter.com/louihaa">X</a>
+   ·
+   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
