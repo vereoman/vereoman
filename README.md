@@ -8,11 +8,11 @@
    <br>
    </samp><br>
 <p align="center"><samp> ~
-   <a href="https://linkedin.com/in/vereoman/">linkedin</a>
+   <a href="https://linkedin.com/in/vereoman/" target="_blank">linkedin</a>
    ·
-   <a href="https://x.com/vereoman">twitter</a>
+   <a href="https://x.com/vereoman" target="_blank">twitter</a>
    ·
-   <a href="https://gravatar.com/vereoman">website</a>
+   <a href="https://gravatar.com/vereoman" target="_blank">website</a>
    ~ </samp><br><br>
 </p>
 </p>
