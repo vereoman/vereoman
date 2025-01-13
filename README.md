@@ -8,7 +8,7 @@
    <br>
    </samp><br>
 <p align="center"><samp> ~
-   <a href="www.linkedin.com/in/vereoman">linkedin</a>
+   <a href="https://linkedin.com/in/vereoman/">linkedin</a>
    ·
    <a href="https://x.com/vereoman">twitter</a>
    ·
