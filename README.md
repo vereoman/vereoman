@@ -2,7 +2,7 @@
    <samp><br>
    Hey there, I'm Arman!
    <br>
-   I’m currently learning Next.js, Go, and Neovim.<br>
+   I’m currently learning Next.js, TypeScript, and Neovim.<br>
    In the mean time, I'm working on developing Next.js projects and<br> looking to contribute to other open source
    projects.
    <br>
