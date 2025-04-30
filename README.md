@@ -12,7 +12,7 @@
    ·
    <a href="https://x.com/vereoman" target="_blank">twitter</a>
    ·
-   <a href="https://gravatar.com/vereoman" target="_blank">website</a>
+   <a href="https://vereoman.me" target="_blank">website</a>
    ~ </samp><br><br>
 </p>
 </p>
